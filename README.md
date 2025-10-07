@@ -23,10 +23,12 @@
 ### 👩‍💻 About Me  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&width=600&lines=IoT+Developer+💡;AI+%26+ML+Explorer+🤖;Embedded+Systems+Innovator+⚙️;Hackathon+Finalist+🏆;Tech+Speaker+%26+Organizer+🎤)](https://git.io/typing-svg)
 
-- 🔭 Check out my [**Portfolio**](#) *(Coming Soon)*  
-- 🌱 Currently exploring **AI-driven Embedded Systems & Real-Time IoT Platforms**  
-- 💬 Ask me about **ESP32, STM32, IoT Projects, and Innovative Tech Ideas**  
-- ⚡ Fun fact: I’ve hosted several technical & cultural events as an anchor!  
+### 🌟 **Fun Facts About Me**
+- 🎯 Strong in **Core Java**, **Full Stack**, and **C Programming**
+- 💡 Passionate about **AI, IoT & Embedded Systems**
+- 🧩 Finalist in **Smart India Hackathon** & **IdeaMakers 2.0**
+- 🗣️ Hosted many **college tech & cultural events**
+- 💖 I blend **creativity + technology** to build innovative real-world solutions
 
 ---
 
