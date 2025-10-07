@@ -78,7 +78,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subasrijd&show_icons=true&theme=radical&hide=issues,contribs" alt="Subasri's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUBA9995&show_icons=true&theme=radical&hide=issues,contribs" alt="Subasri's GitHub Stats" />
 </p>
 
 <!-- GitHub Activity Graph -->
