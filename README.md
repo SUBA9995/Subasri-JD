@@ -1,9 +1,17 @@
 <!-- Animated Name Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Subasri+JD+✨;ECE+Student+|+IoT+and+AI+Enthusiast;Innovator+|+Hackathon+Finalist+🏆" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Subasri+JD+✨;ECE+Student+|+IoT+and+AI+Enthusiast;Innovator+|+Hackathon+Finalist+🏆" alt="Typing SVG" />
 </h1>
 
-
+<!-- Social Media Links -->
+<p align="center">
+  <a href="https://github.com/SubasriJD" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/subasri-jd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 🎓 Electronics and Communication Engineering Student @ IFET College of Engineering  
 💡 Passionate about IoT, AI/ML & Embedded Systems  
 🚀 Smart India Hackathon Finalist | TN Startup Finalist | Tech Innovator  
