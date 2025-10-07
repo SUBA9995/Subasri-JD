@@ -1,7 +1,8 @@
 <!-- Animated Name Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00C7B7&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Subasri+JD+✨;ECE+Student+|+IoT+%26+AI+Enthusiast;Innovator+|+Hackathon+Finalist+🏆" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Subasri+JD+✨;ECE+Student+|+IoT+and+AI+Enthusiast;Innovator+|+Hackathon+Finalist+🏆" alt="Typing SVG" />
 </h1>
+
 
 🎓 Electronics and Communication Engineering Student @ IFET College of Engineering  
 💡 Passionate about IoT, AI/ML & Embedded Systems  
