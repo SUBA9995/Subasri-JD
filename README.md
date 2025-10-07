@@ -76,10 +76,15 @@
 
 ---
 
-![Subasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubasriJD&theme=radical&show_icons=true&hide=issues,contribs)  
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subasrijd&show_icons=true&theme=radical&hide=issues,contribs" alt="Subasri's GitHub Stats" />
+</p>
 
-[![Subasri’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SubasriJD&bg_color=0d1117&color=00ffee&line=00bfbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subasrijd&bg_color=0d1117&color=00ffee&line=00bfbf&point=ffffff&area=true&hide_border=true" alt="Subasri’s GitHub Activity Graph" />
+</p>
 ---
 
 ⭐ *"Innovate, Inspire, and Implement — building real-world tech for a smarter tomorrow."*  
